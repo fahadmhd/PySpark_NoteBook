@@ -4,7 +4,7 @@ PySpark is the Python API for Apache Spark, an open source, distributed computin
 In this notebook, I create DataFrame and work on it.  A DataFrame is a two-dimensional labeled data structure with columns of potentially different types. 
 Finally I obtain performance matrics and conlcude some results
 
-### Performance Metrics [ see values obtained are: (0.41219200625784047, 4.768627321582243, 45.215286217550926)]
+### Performance Metrics [ see values obtained are: (0.412, 4.76, 45.21)]
 Based on the performance metrics obtained:
 
 ### R² Score: 0.412
